@@ -46,6 +46,8 @@ The game is built in Python and uses Pygame for the graphical interface.
 - The AI will automatically make its move.
 - The game continues until someone wins or it’s a draw.
 - Click the “Play Again” button to restart the game.
+
+  
 ![Gameplay screenshot](images/img1.JPG)
 ![Gameplay screenshot](images/img2.JPG)
 ---
